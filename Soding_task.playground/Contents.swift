@@ -28,4 +28,8 @@ func add(){
     
 }
 
+func subtract(){
+    
+}
+
 
