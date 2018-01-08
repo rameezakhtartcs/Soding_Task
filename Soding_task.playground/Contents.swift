@@ -32,4 +32,8 @@ func subtract(){
     
 }
 
+func newmethod(){
+    
+}
+
 
