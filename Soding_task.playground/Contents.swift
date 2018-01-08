@@ -24,7 +24,7 @@ func calFibonacci(maxno:Int){
 
 calFibonacci(maxno: 4000000)
 
-func add(){
+func addReplaceTD2621(){
     
 }
 
